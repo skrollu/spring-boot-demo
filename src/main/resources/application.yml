@@ -1,8 +1,8 @@
 app:
-	datasource: 
-		jdbc-url: jdbc:postgresql://localhost:5432/spring-boot-postgres-db
-		username: postgres
-		password: password
-		pool-size: 30
+    datasource: 
+        jdbc-url: jdbc:postgresql://localhost:5432/spring_boot_postgres_demo_db
+        username: postgres
+        password: password
+        pool-size: 30
 server:
-	port: 8181
+    port: 8181
