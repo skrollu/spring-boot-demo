@@ -1,4 +1,4 @@
-# Spring boot demo tutorial
+# Spring boot api demo tutorial
 
 This project follow the youtube tutorial found here: 
 	
